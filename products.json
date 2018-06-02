@@ -1,0 +1,1450 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Продукты",
+      "expanded": true
+    },
+    {
+      "id": 2,
+      "parentId": 1,
+      "title": "Мясо, рыба",
+      "expanded": true
+    },
+    {
+      "id": 3,
+      "parentId": 1,
+      "title": "Овощная группа",
+      "expanded": true
+    },
+    {
+      "id": 4,
+      "parentId": 1,
+      "title": "Сухофрукты",
+      "expanded": true
+    },
+    {
+      "id": 5,
+      "parentId": 1,
+      "title": "Яйца",
+      "expanded": true
+    },
+    {
+      "id": 6,
+      "parentId": 1,
+      "title": "Хлебобулочные",
+      "expanded": true
+    },
+    {
+      "id": 7,
+      "parentId": 1,
+      "title": "Молочные продукты",
+      "expanded": true
+    },
+    {
+      "id": 8,
+      "parentId": 1,
+      "title": "Зерновые и бобовые",
+      "expanded": true
+    },
+    {
+      "id": 9,
+      "parentId": 1,
+      "title": "Соусы, жиры",
+      "expanded": true
+    },
+    {
+      "id": 10,
+      "parentId": 2,
+      "title": "Мясо, птица и мясопродукты",
+      "expanded": true
+    },
+    {
+      "id": 11,
+      "parentId": 2,
+      "title": "Рыба и морепродукты",
+      "expanded": true
+    },
+    {
+      "id": 12,
+      "parentId": 3,
+      "title": "Фрукты и ягоды",
+      "expanded": true
+    },
+    {
+      "id": 13,
+      "parentId": 3,
+      "title": "Овощи",
+      "expanded": true
+    },
+    {
+      "id": 14,
+      "parentId": 3,
+      "title": "Грибы",
+      "expanded": true
+    },
+    {
+      "id": 15,
+      "parentId": 4,
+      "title": "Семечки,Орехи",
+      "expanded": true
+    },
+    {
+      "id": 16,
+      "parentId": 4,
+      "title": "Сухофрукты",
+      "expanded": true
+    },
+    {
+      "id": 17,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Баранина жирная",
+      "weight": 316
+    },
+    {
+      "id": 18,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Ветчина",
+      "weight": 365
+    },
+    {
+      "id": 19,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Говядина тушеная",
+      "weight": 180
+    },
+    {
+      "id": 20,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Говядина жареная",
+      "weight": 170
+    },
+    {
+      "id": 21,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Грудинка",
+      "weight": 475
+    },
+    {
+      "id": 22,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Гусь",
+      "weight": 300
+    },
+    {
+      "id": 23,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Индейка",
+      "weight": 150
+    },
+    {
+      "id": 24,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Колбаса вареная",
+      "weight": 250
+    },
+    {
+      "id": 25,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Колбаса полукопченая",
+      "weight": 380
+    },
+    {
+      "id": 26,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Корейка",
+      "weight": 430
+    },
+    {
+      "id": 27,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Крольчатина",
+      "weight": 115
+    },
+    {
+      "id": 28,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Курица вареная",
+      "weight": 135
+    },
+    {
+      "id": 29,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Курица жареная",
+      "weight": 210
+    },
+    {
+      "id": 30,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Печень говяжья",
+      "weight": 100
+    },
+    {
+      "id": 31,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Почки",
+      "weight": 66
+    },
+    {
+      "id": 32,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Сардельки",
+      "weight": 160
+    },
+    {
+      "id": 33,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Свинина отбивная",
+      "weight": 265
+    },
+    {
+      "id": 34,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Свинина тушеная",
+      "weight": 350
+    },
+    {
+      "id": 35,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Сердце",
+      "weight": 87
+    },
+    {
+      "id": 36,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Сосиски",
+      "weight": 235
+    },
+    {
+      "id": 37,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Телятина",
+      "weight": 90
+    },
+    {
+      "id": 38,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Утка",
+      "weight": 405
+    },
+    {
+      "id": 39,
+      "parentId": 10,
+      "expanded": false,
+      "title": "Язык",
+      "weight": 165
+    },
+    {
+      "id": 40,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Икра зернистая ",
+      "weight": 250
+    },
+    {
+      "id": 41,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Икра кетовая",
+      "weight": 245
+    },
+    {
+      "id": 42,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Икра минтая",
+      "weight": 130
+    },
+    {
+      "id": 43,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Кальмар",
+      "weight": 75
+    },
+    {
+      "id": 44,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Карп",
+      "weight": 46
+    },
+    {
+      "id": 45,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Карп жареный",
+      "weight": 145
+    },
+    {
+      "id": 46,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Кета",
+      "weight": 157
+    },
+    {
+      "id": 47,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Консервы рыбные",
+      "weight": 320
+    },
+    {
+      "id": 48,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Консервы рыбные в собственном соку",
+      "weight": 0
+    },
+    {
+      "id": 49,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Креветки",
+      "weight": 85
+    },
+    {
+      "id": 50,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Крабы",
+      "weight": 70
+    },
+    {
+      "id": 51,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Лещ",
+      "weight": 48
+    },
+    {
+      "id": 52,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Лососина жареная",
+      "weight": 145
+    },
+    {
+      "id": 53,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Лососина копченая",
+      "weight": 385
+    },
+    {
+      "id": 54,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Минтай",
+      "weight": 70
+    },
+    {
+      "id": 55,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Морская капуста",
+      "weight": 16
+    },
+    {
+      "id": 56,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Навага",
+      "weight": 44
+    },
+    {
+      "id": 57,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Окунь",
+      "weight": 95
+    },
+    {
+      "id": 58,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Раки",
+      "weight": 75
+    },
+    {
+      "id": 59,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Салака",
+      "weight": 98
+    },
+    {
+      "id": 60,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Севрюга",
+      "weight": 137
+    },
+    {
+      "id": 61,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Сельдь атлантическая",
+      "weight": 57
+    },
+    {
+      "id": 62,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Судак",
+      "weight": 43
+    },
+    {
+      "id": 63,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Треска",
+      "weight": 59
+    },
+    {
+      "id": 64,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Шпроты в масле",
+      "weight": 250
+    },
+    {
+      "id": 65,
+      "parentId": 11,
+      "expanded": false,
+      "title": "Щука",
+      "weight": 41
+    },
+    {
+      "id": 66,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Абрикосы",
+      "weight": 47
+    },
+    {
+      "id": 67,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Авокадо",
+      "weight": 100
+    },
+    {
+      "id": 68,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Айва",
+      "weight": 30
+    },
+    {
+      "id": 69,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Алыча",
+      "weight": 38
+    },
+    {
+      "id": 70,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Ананас",
+      "weight": 44
+    },
+    {
+      "id": 71,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Апельсин",
+      "weight": 45
+    },
+    {
+      "id": 72,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Арбуз",
+      "weight": 40
+    },
+    {
+      "id": 73,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Бананы",
+      "weight": 90
+    },
+    {
+      "id": 74,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Брусника",
+      "weight": 45
+    },
+    {
+      "id": 75,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Виноград",
+      "weight": 70
+    },
+    {
+      "id": 76,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Вишня",
+      "weight": 25
+    },
+    {
+      "id": 77,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Грейпфрут",
+      "weight": 30
+    },
+    {
+      "id": 78,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Груша",
+      "weight": 42
+    },
+    {
+      "id": 79,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Дыня",
+      "weight": 45
+    },
+    {
+      "id": 80,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Ежевика",
+      "weight": 32
+    },
+    {
+      "id": 81,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Земляника",
+      "weight": 38
+    },
+    {
+      "id": 82,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Киви",
+      "weight": 50
+    },
+    {
+      "id": 83,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Кизил",
+      "weight": 41
+    },
+    {
+      "id": 84,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Клюква",
+      "weight": 33
+    },
+    {
+      "id": 85,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Крыжовник",
+      "weight": 48
+    },
+    {
+      "id": 86,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Лимон",
+      "weight": 30
+    },
+    {
+      "id": 87,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Малина",
+      "weight": 45
+    },
+    {
+      "id": 88,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Мандарин",
+      "weight": 41
+    },
+    {
+      "id": 89,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Персики",
+      "weight": 45
+    },
+    {
+      "id": 90,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Слива",
+      "weight": 44
+    },
+    {
+      "id": 91,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Смородина",
+      "weight": 43
+    },
+    {
+      "id": 92,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Черешня",
+      "weight": 53
+    },
+    {
+      "id": 93,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Черника",
+      "weight": 44
+    },
+    {
+      "id": 94,
+      "parentId": 12,
+      "expanded": false,
+      "title": "Яблоки",
+      "weight": 45
+    },
+    {
+      "id": 95,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Баклажаны",
+      "weight": 28
+    },
+    {
+      "id": 96,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Зелёный горошек",
+      "weight": 75
+    },
+    {
+      "id": 97,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Кабачки",
+      "weight": 18
+    },
+    {
+      "id": 98,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Капуста белокочанная",
+      "weight": 23
+    },
+    {
+      "id": 99,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Капуста брюссельская",
+      "weight": 12
+    },
+    {
+      "id": 100,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Капуста квашеная",
+      "weight": 28
+    },
+    {
+      "id": 101,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Капуста краснокочанная",
+      "weight": 27
+    },
+    {
+      "id": 102,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Капуста цветная",
+      "weight": 18
+    },
+    {
+      "id": 103,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Картофель отварной",
+      "weight": 60
+    },
+    {
+      "id": 104,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Лук зелёный",
+      "weight": 18
+    },
+    {
+      "id": 105,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Лук репчатый",
+      "weight": 43
+    },
+    {
+      "id": 106,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Морковь",
+      "weight": 33
+    },
+    {
+      "id": 107,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Огурцы свежие",
+      "weight": 15
+    },
+    {
+      "id": 108,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Перец зелёный сладкий",
+      "weight": 19
+    },
+    {
+      "id": 109,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Петрушка",
+      "weight": 23
+    },
+    {
+      "id": 110,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Помидоры",
+      "weight": 20
+    },
+    {
+      "id": 111,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Ревень",
+      "weight": 16
+    },
+    {
+      "id": 112,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Редис",
+      "weight": 16
+    },
+    {
+      "id": 113,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Редька",
+      "weight": 25
+    },
+    {
+      "id": 114,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Репа",
+      "weight": 23
+    },
+    {
+      "id": 115,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Салат",
+      "weight": 11
+    },
+    {
+      "id": 116,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Свёкла",
+      "weight": 40
+    },
+    {
+      "id": 117,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Тыква",
+      "weight": 20
+    },
+    {
+      "id": 118,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Укроп",
+      "weight": 30
+    },
+    {
+      "id": 119,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Хрен",
+      "weight": 49
+    },
+    {
+      "id": 120,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Чеснок",
+      "weight": 60
+    },
+    {
+      "id": 121,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Шпинат",
+      "weight": 16
+    },
+    {
+      "id": 122,
+      "parentId": 13,
+      "expanded": false,
+      "title": "Щавель",
+      "weight": 27
+    },
+    {
+      "id": 123,
+      "parentId": 14,
+      "expanded": false,
+      "title": "Грибы белые",
+      "weight": 25
+    },
+    {
+      "id": 124,
+      "parentId": 14,
+      "expanded": false,
+      "title": "Грибы белые сушёные",
+      "weight": 210
+    },
+    {
+      "id": 125,
+      "parentId": 14,
+      "expanded": false,
+      "title": "Грибы вареные",
+      "weight": 25
+    },
+    {
+      "id": 126,
+      "parentId": 14,
+      "expanded": false,
+      "title": "Грибы в сметане",
+      "weight": 230
+    },
+    {
+      "id": 127,
+      "parentId": 14,
+      "expanded": false,
+      "title": "Грибы жаренные",
+      "weight": 165
+    },
+    {
+      "id": 128,
+      "parentId": 14,
+      "expanded": false,
+      "title": "Опята",
+      "weight": 20
+    },
+    {
+      "id": 129,
+      "parentId": 14,
+      "expanded": false,
+      "title": "Подберезовики",
+      "weight": 30
+    },
+    {
+      "id": 130,
+      "parentId": 14,
+      "expanded": false,
+      "title": "Подосиновики",
+      "weight": 30
+    },
+    {
+      "id": 131,
+      "parentId": 15,
+      "expanded": false,
+      "title": "Семечки",
+      "weight": 580
+    },
+    {
+      "id": 132,
+      "parentId": 15,
+      "expanded": false,
+      "title": "Орехи Грецкие",
+      "weight": 650
+    },
+    {
+      "id": 133,
+      "parentId": 15,
+      "expanded": false,
+      "title": "Орехи земляные",
+      "weight": 470
+    },
+    {
+      "id": 134,
+      "parentId": 15,
+      "expanded": false,
+      "title": "Орехи Кедровые",
+      "weight": 620
+    },
+    {
+      "id": 135,
+      "parentId": 15,
+      "expanded": false,
+      "title": "Миндаль",
+      "weight": 600
+    },
+    {
+      "id": 136,
+      "parentId": 15,
+      "expanded": false,
+      "title": "Фисташки",
+      "weight": 620
+    },
+    {
+      "id": 137,
+      "parentId": 15,
+      "expanded": false,
+      "title": "Фундук",
+      "weight": 670
+    },
+    {
+      "id": 138,
+      "parentId": 16,
+      "expanded": false,
+      "title": "Изюм",
+      "weight": 270
+    },
+    {
+      "id": 139,
+      "parentId": 16,
+      "expanded": false,
+      "title": "Инжир",
+      "weight": 290
+    },
+    {
+      "id": 140,
+      "parentId": 16,
+      "expanded": false,
+      "title": "Кишмиш",
+      "weight": 310
+    },
+    {
+      "id": 141,
+      "parentId": 16,
+      "expanded": false,
+      "title": "Курага",
+      "weight": 290
+    },
+    {
+      "id": 142,
+      "parentId": 16,
+      "expanded": false,
+      "title": "Финики",
+      "weight": 290
+    },
+    {
+      "id": 143,
+      "parentId": 16,
+      "expanded": false,
+      "title": "Чернослив",
+      "weight": 220
+    },
+    {
+      "id": 144,
+      "parentId": 16,
+      "expanded": false,
+      "title": "Яблоки",
+      "weight": 210
+    },
+    {
+      "id": 145,
+      "parentId": 5,
+      "expanded": false,
+      "title": "Яйцо куриное",
+      "weight": 65
+    },
+    {
+      "id": 146,
+      "parentId": 5,
+      "expanded": false,
+      "title": "Яичный порошок",
+      "weight": 540
+    },
+    {
+      "id": 147,
+      "parentId": 6,
+      "expanded": false,
+      "title": "Сахар",
+      "weight": 295
+    },
+    {
+      "id": 148,
+      "parentId": 6,
+      "expanded": false,
+      "title": "Лепёшка ржаная",
+      "weight": 375
+    },
+    {
+      "id": 149,
+      "parentId": 6,
+      "expanded": false,
+      "title": "Сдобная выпечка",
+      "weight": 300
+    },
+    {
+      "id": 150,
+      "parentId": 6,
+      "expanded": false,
+      "title": "Сушки, пряники",
+      "weight": 330
+    },
+    {
+      "id": 151,
+      "parentId": 6,
+      "expanded": false,
+      "title": "Хлеб Дарницкий",
+      "weight": 206
+    },
+    {
+      "id": 152,
+      "parentId": 6,
+      "expanded": false,
+      "title": "Хлеб пшеничный",
+      "weight": 265
+    },
+    {
+      "id": 153,
+      "parentId": 6,
+      "expanded": false,
+      "title": "Хлеб ржаной",
+      "weight": 210
+    },
+    {
+      "id": 154,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Ацидофилин(3, 2 % жирности)",
+      "weight": 58
+    },
+    {
+      "id": 155,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Брынза коровья",
+      "weight": 260
+    },
+    {
+      "id": 156,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Йогурт(1, 5 %)",
+      "weight": 51
+    },
+    {
+      "id": 157,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Кефир жирный",
+      "weight": 60
+    },
+    {
+      "id": 158,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Кефир(1 % жирности)",
+      "weight": 38
+    },
+    {
+      "id": 159,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Кефир обезжиренный",
+      "weight": 30
+    },
+    {
+      "id": 160,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Молоко(3, 2 % жирности)",
+      "weight": 60
+    },
+    {
+      "id": 161,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Молоко коровье цельное",
+      "weight": 68
+    },
+    {
+      "id": 162,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Мороженое сливочное",
+      "weight": 220
+    },
+    {
+      "id": 163,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Простокваша",
+      "weight": 59
+    },
+    {
+      "id": 164,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Ряженка",
+      "weight": 85
+    },
+    {
+      "id": 165,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сливки(10 % жирности)",
+      "weight": 120
+    },
+    {
+      "id": 166,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сливки(20 % жирности)",
+      "weight": 300
+    },
+    {
+      "id": 167,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сметана(10 %)",
+      "weight": 115
+    },
+    {
+      "id": 168,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сметана(20 %)",
+      "weight": 210
+    },
+    {
+      "id": 169,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сыр голландский",
+      "weight": 357
+    },
+    {
+      "id": 170,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сыр Ламбер",
+      "weight": 377
+    },
+    {
+      "id": 171,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сыр Пармезан",
+      "weight": 330
+    },
+    {
+      "id": 172,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сыр российский",
+      "weight": 371
+    },
+    {
+      "id": 173,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сыр колбасный",
+      "weight": 268
+    },
+    {
+      "id": 174,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Сырки творожные",
+      "weight": 380
+    },
+    {
+      "id": 175,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Творог(18 % жирности)",
+      "weight": 226
+    },
+    {
+      "id": 176,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Творог нежирный",
+      "weight": 80
+    },
+    {
+      "id": 177,
+      "parentId": 7,
+      "expanded": false,
+      "title": "Творог со сметаной",
+      "weight": 260
+    },
+    {
+      "id": 178,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Горох Зелёный",
+      "weight": 280
+    },
+    {
+      "id": 179,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Мука Пшеничная",
+      "weight": 348
+    },
+    {
+      "id": 180,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Мука Ржаная",
+      "weight": 347
+    },
+    {
+      "id": 181,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Какао - порошок",
+      "weight": 375
+    },
+    {
+      "id": 182,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Крупа Гречневая ядрица",
+      "weight": 346
+    },
+    {
+      "id": 183,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Крупа манная",
+      "weight": 340
+    },
+    {
+      "id": 184,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Крупа овсяная",
+      "weight": 374
+    },
+    {
+      "id": 185,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Крупа перловая",
+      "weight": 342
+    },
+    {
+      "id": 186,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Крупа пшеничная",
+      "weight": 352
+    },
+    {
+      "id": 187,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Крупа ячневая",
+      "weight": 343
+    },
+    {
+      "id": 188,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Кукурузные хлопья",
+      "weight": 369
+    },
+    {
+      "id": 189,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Макаронные изделия",
+      "weight": 350
+    },
+    {
+      "id": 190,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Овсяные хлопья",
+      "weight": 305
+    },
+    {
+      "id": 191,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Пшено",
+      "weight": 351
+    },
+    {
+      "id": 192,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Рис",
+      "weight": 337
+    },
+    {
+      "id": 193,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Соя",
+      "weight": 395
+    },
+    {
+      "id": 194,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Фасоль",
+      "weight": 328
+    },
+    {
+      "id": 195,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Чечевица",
+      "weight": 310
+    },
+    {
+      "id": 196,
+      "parentId": 8,
+      "expanded": false,
+      "title": "Ячменные хлопья",
+      "weight": 315
+    },
+    {
+      "id": 197,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Жир топлёный ",
+      "weight": 930
+    },
+    {
+      "id": 198,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Кетчуп",
+      "weight": 80
+    },
+    {
+      "id": 199,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Майонез",
+      "weight": 625
+    },
+    {
+      "id": 200,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Майонез лёгкий",
+      "weight": 260
+    },
+    {
+      "id": 201,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Маргарин сливочный",
+      "weight": 745
+    },
+    {
+      "id": 202,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Маргарин бутербродный",
+      "weight": 670
+    },
+    {
+      "id": 203,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Маргарин для выпечки",
+      "weight": 675
+    },
+    {
+      "id": 204,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Масло кукурузное",
+      "weight": 900
+    },
+    {
+      "id": 205,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Масло оливковое",
+      "weight": 824
+    },
+    {
+      "id": 206,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Масло подсолнечное",
+      "weight": 900
+    },
+    {
+      "id": 207,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Масло сливочное",
+      "weight": 750
+    },
+    {
+      "id": 208,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Масло соевое",
+      "weight": 900
+    },
+    {
+      "id": 209,
+      "parentId": 9,
+      "expanded": false,
+      "title": "Масло топлёное",
+      "weight": 885
+    }
+  ]
+}
