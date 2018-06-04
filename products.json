@@ -2,6 +2,7 @@
   "products": [
     {
       "id": 1,
+      "parentId": 0,
       "title": "Продукты",
       "expanded": true
     },
@@ -1183,9 +1184,9 @@
     {
       "id": 172,
       "parentId": 7,
-      "expanded": false,
       "title": "Сыр российский",
-      "weight": 371
+      "weight": 370,
+      "expanded": false
     },
     {
       "id": 173,
@@ -1365,9 +1366,8 @@
     {
       "id": 198,
       "parentId": 9,
-      "expanded": false,
-      "title": "Кетчуп",
-      "weight": 80
+      "expanded": true,
+      "title": "Кетчуп"
     },
     {
       "id": 199,
@@ -1445,6 +1445,20 @@
       "expanded": false,
       "title": "Масло топлёное",
       "weight": 885
+    },
+    {
+      "id": 210,
+      "parentId": 5,
+      "title": "яйцо варенное",
+      "weight": 5,
+      "expanded": false
+    },
+    {
+      "id": 211,
+      "parentId": 198,
+      "title": "Кетчуп легкий",
+      "weight": 4,
+      "expanded": false
     }
   ]
 }

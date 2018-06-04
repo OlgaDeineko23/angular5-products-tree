@@ -1,0 +1,18 @@
+<div class="tree-item" *ngFor="let product of data | orderBy: order.attr">
+  <span class="tree-icon" *ngIf="product.children?.length" (click)="toggleChildren(product)">
+    <i *ngIf="!product.visible" class="fa fa-plus" aria-hidden="true"></i>
+    <i *ngIf="product.visible" class="fa fa fa-minus" aria-hidden="true"></i>
+  </span>
+  <ul>
+    <li>
+      {{ product.title }}
+      ({{ product.weight }})
+      <button *ngIf="product.type === 'subcategory' || product.type === 'category'" class="btn btn-outline-primary btn-sm" (click)="changeOrder()"><i class="fa fa-filter" aria-hidden="true"></i></button>
+      <button class="btn btn-light" *ngIf="product.type === 'subcategory' || product.type === 'product'"
+              (click)="create(product, 'createproduct')">Добавить продукт</button>
+      <button class="btn btn-light" *ngIf="product.type === 'category'" (click)="create(product, 'createcategory')">Добавить категорию</button>
+      <button class="btn btn-light" *ngIf="!product.expanded && product.type === 'product'" (click)="create(product, 'changeweight')">Изменить вес</button>
+      <app-tree [data]="product.children" [order]="orderChild" *ngIf="product.children && product.visible"></app-tree>
+    </li>
+  </ul>
+</div>

@@ -1,22 +1,7 @@
 <ul *ngIf="products">
-  <!--<li>{{products.title}}-->
-    <!--<ul *ngIf="products.expanded">-->
-      <!--<li *ngFor="let category of products.items">-->
-        <!--{{category.title}}-->
-        <!--<span *ngIf="category.weight">({{category.weight}})</span>-->
-        <!--<ul *ngIf="category.expanded">-->
-          <!--<li *ngFor="let subcategory of category.items">-->
-            <!--{{subcategory.title}}-->
-            <!--<span *ngIf="subcategory.weight">({{subcategory.weight}})</span>-->
-            <!--<ul *ngIf="subcategory.expanded">-->
-              <!--<li *ngFor="let product of subcategory.items">-->
-                <!--{{product.title}}-->
-                <!--<span *ngIf="product.weight">({{product.weight}})</span>-->
-              <!--</li>-->
-            <!--</ul>-->
-          <!--</li>-->
-        <!--</ul>-->
-      <!--</li>-->
-    <!--</ul>-->
-  <!--</li>-->
+  {{products[0].title}}
+  ({{products[0].weight}})
+  <button class="btn btn-outline-primary btn-sm" (click)="changeOrder()"><i class="fa fa-filter" aria-hidden="true"></i></button>
+  <button class="btn btn-light" (click)="createCategory(products[0], 'createcategory')">Добавить категорию</button>
+  <app-tree *ngIf="products" [data]="products[0].children" [order]="order"></app-tree>
 </ul>
